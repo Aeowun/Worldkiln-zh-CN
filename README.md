@@ -82,6 +82,8 @@
 
 每个版本包含原始 `Installer.exe` 和该版本附带的其他资源（如适用），均从 [Worldkiln 官方 Releases](https://github.com/Aeowun/Worldkiln/releases) 原样复制。每个发布页的说明中提供安装程序的 **SHA-256** 校验值。
 
+> **安全提示：** 官方 1.0.0、1.0.1 和 1.1.0 的 `Installer.exe` 均未进行 Windows Authenticode 数字签名，Windows SmartScreen 可能显示警告。运行前请核对文件来源和发布页提供的 SHA-256 校验值。
+
 ## 许可证
 
 Worldkiln 原始源代码使用 **Apache License, Version 2.0**，第三方组件及附带资源受各自许可证约束。本仓库保留[英文原版许可证](LICENSE)作为法律依据；中文解释不替代许可证原文。
