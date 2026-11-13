@@ -70,6 +70,18 @@
 - [API 参考](https://aeowun.com/docs/reference/)
 - [支持与反馈](https://aeowun.com/support/)
 
+## Windows 下载（英文原版安装程序）
+
+本仓库提供与 Worldkiln **官方发布版本内容一致**的 Windows 安装文件镜像。**编辑器界面仍为英文，并未制作中文本地化版本。**
+
+| 版本 | 状态 | 下载 |
+| --- | --- | --- |
+| 1.0.0 | 正式版 | [下载 1.0.0](https://github.com/Aeowun/Worldkiln-zh-CN/releases/tag/win11-v1.0.0) |
+| 1.0.1 | 正式版 | [下载 1.0.1](https://github.com/Aeowun/Worldkiln-zh-CN/releases/tag/win11-v1.0.1) |
+| 1.1.0 | **预发布版（Pre-release）** | [下载 1.1.0](https://github.com/Aeowun/Worldkiln-zh-CN/releases/tag/win11-v1.1.0) |
+
+每个版本包含原始 `Installer.exe` 和该版本附带的其他资源（如适用），均从 [Worldkiln 官方 Releases](https://github.com/Aeowun/Worldkiln/releases) 原样复制。每个发布页的说明中提供安装程序的 **SHA-256** 校验值。
+
 ## 许可证
 
 Worldkiln 原始源代码使用 **Apache License, Version 2.0**，第三方组件及附带资源受各自许可证约束。本仓库保留[英文原版许可证](LICENSE)作为法律依据；中文解释不替代许可证原文。
